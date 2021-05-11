@@ -1,0 +1,24 @@
+{
+  "name": "task19_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.13.16",
+    "@babel/core": "^7.14.0",
+    "@babel/node": "^7.13.13",
+    "@babel/preset-env": "^7.14.1",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
